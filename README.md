@@ -25,9 +25,6 @@
   <a href="docs/development.md">development.md</a>
 </p>
 
-> [!IMPORTANT]
-> **This repository contains documentation and artwork only.** There is no frontend, backend service, smart contract, escrow integration or deployment here yet. Nothing in this repository moves, holds or protects funds. Every product mechanism described below is a design that still has to be built, integrated, tested and reviewed.
-
 <img src="docs/assets/divider-01.svg" width="100%" alt="">
 
 ## Current implementation status
