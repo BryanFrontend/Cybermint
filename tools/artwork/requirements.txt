@@ -1,0 +1,7 @@
+fonttools>=4.50
+uharfbuzz>=0.39
+# Only needed to re-trace the logo PNG:
+potracer>=0.0.4
+numpy
+scipy
+pillow
